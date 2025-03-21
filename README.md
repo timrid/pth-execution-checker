@@ -3,7 +3,7 @@ This package is for checking if .pth files are automatically processed at startu
 
 ## Installation
 ```
-pip install pth-execution-checker
+pip install git+https://github.com/timrid/pth-execution-checker@main
 ```
 
 ## Usage
