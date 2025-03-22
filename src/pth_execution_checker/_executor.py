@@ -9,5 +9,5 @@ try:
     pth_execution_checker.import_socket_possible = True
     pth_execution_checker.import_socket_exception = None
 except Exception as e:
-    pth_execution_checker.import_socket_possible = True
+    pth_execution_checker.import_socket_possible = False
     pth_execution_checker.import_socket_exception = e
